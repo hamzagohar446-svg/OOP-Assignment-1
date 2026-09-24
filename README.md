@@ -12,7 +12,7 @@
 - **Faculty:** Faculty of Information Technology, City University Malaysia, Cyberjaya Campus
 - **Lecturer:** Sir Nazmirul Izzad Bin Nassir
 - **Assessment:** Assignment 1, individual, 20%
-- **Deadline:** 21 August 2026
+- **Deadline:** 24 September 2026
 
 ## Brief course description
 
