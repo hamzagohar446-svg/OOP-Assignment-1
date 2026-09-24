@@ -1,0 +1,14 @@
+Week 5 - Encapsulation notes
+Student: Hamza Gohar
+Student ID: 202504010004
+
+The Student class keeps studentId, name, cgpa, and programme private.
+Other classes cannot change those fields directly. They must use the
+setter methods, and they can only read the values through the getters.
+
+The setters also check the data before storing it:
+- name, student ID, and programme cannot be blank
+- CGPA must be from 0.00 to 4.00
+
+If a value is rejected, the old value stays in the object. Main.java
+shows this by trying to set a CGPA of 4.80 after a valid CGPA of 3.62.
